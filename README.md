@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🎓 Engineering Student at ENSIT | 🤖 AI & Data Science Enthusiast | 💬 LLM & Generative AI Explorer
 
-Welcome to my GitHub profile! I'm currently pursuing a degree in **Applied Mathematics and Modeling Engineering** at the Higher National School of Engineering of Tunis (ENSIT). I'm passionate about leveraging **Artificial Intelligence**, **Data Science**, and **Web Technologies** to build impactful, intelligent systems.
+Welcome to my GitHub profile! I'm currently pursuing a degree in **Applied Mathematics and Modeling Engineering** at the Higher National Engineering School of Tunis (ENSIT). I'm passionate about leveraging **Artificial Intelligence**, **Data Science**, and **Web Technologies** to build impactful, intelligent systems.
 
 ---
 
