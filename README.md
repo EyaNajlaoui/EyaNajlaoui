@@ -27,9 +27,7 @@ Welcome to my GitHub profile! I'm currently pursuing a degree in **Applied Mathe
 
 - 🧠 Build and evaluate **Machine Learning** and **Deep Learning** models
 - 💬 Explore **Generative AI**, **LLMs (Large Language Models)**, and **Natural Language Processing**
-- 📈 Analyze and visualize **economic and financial data**
-- 🌐 Develop interactive **Web Applications** with modern technologies
-- 🔍 Work on **Cybersecurity use cases** using AI-based threat detection
+- 🌐 Develop interactive **Web Applications** 
 
 ---
 
@@ -40,8 +38,6 @@ I’m currently seeking **internship** where I can contribute to:
 - Generative AI applications
 - Full-stack or backend **web development**
 - Projects involving **data-driven decision-making** 
-
-I'm especially interested in environments that promote **learning**, **collaboration**, and **innovation**.
 
 ---
 
