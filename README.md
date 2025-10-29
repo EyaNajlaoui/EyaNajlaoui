@@ -36,7 +36,6 @@ Welcome to my GitHub profile! I'm currently pursuing a degree in **Applied Mathe
 I’m currently seeking **internship** where I can contribute to:
 - AI or Data Science projects (ML/DL, NLP, LLMs)
 - Generative AI applications
-- Full-stack or backend **web development**
 - Projects involving **data-driven decision-making** 
 
 ---
