@@ -27,7 +27,8 @@ Welcome to my GitHub profile! I'm currently pursuing a degree in **Applied Mathe
 
 - 🧠 Build and evaluate **Machine Learning** and **Deep Learning** models
 - 💬 Explore **Generative AI**, **LLMs (Large Language Models)**, and **Natural Language Processing**
-- 🌐 Develop interactive **Web Applications** 
+- 🌐 Develop interactive **Web Applications**
+- ⚙️ Implement **optimization** techniques
 
 ---
 
