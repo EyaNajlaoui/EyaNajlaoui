@@ -1,5 +1,3 @@
-
-
 <!--
 **EyaNajlaoui/EyaNajlaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,29 +15,34 @@ Here are some ideas to get you started:
 
 # 👋 Hello! I'm Eya Najlaoui
 
-🎓 Engineering Student at ENSIT | 🤖 AI & Data Science Enthusiast | 💬 LLM & Generative AI Explorer
+🎓 **Final-year Engineering Student at ENSIT (Applied Mathematics & Modeling Engineering)**  
+📘 **Master's Student (M2) in Data Science at ENSIT**  
+🤖 **AI & Data Science Enthusiast** | 💬 **LLM & Generative AI Explorer**
 
-Welcome to my GitHub profile! I'm currently pursuing a degree in **Applied Mathematics and Modeling Engineering** at the Higher National Engineering School of Tunis (ENSIT). I'm passionate about leveraging **Artificial Intelligence**, **Data Science**, and **Web Technologies** to build impactful, intelligent systems.
+Welcome to my GitHub profile! I’m currently completing my engineering degree at the Higher National Engineering School of Tunis (ENSIT) and pursuing a **Master’s degree in Data Science at ENSIT**.  
+I’m passionate about leveraging **Artificial Intelligence**, **Data Science**, and **Web Technologies** to build impactful and intelligent systems.
 
 ---
 
 ## 👨‍💻 What I Do
 
-- 🧠 Build and evaluate **Machine Learning** and **Deep Learning** models
-- 💬 Explore **Generative AI**, **LLMs (Large Language Models)**, and **Natural Language Processing**
-- 🌐 Develop interactive **Web Applications**
-- ⚙️ Implement **optimization** techniques
+- 🧠 Build and evaluate **Machine Learning** and **Deep Learning** models  
+- 💬 Explore **Generative AI**, **LLMs (Large Language Models)**, and **Natural Language Processing**  
+- 🌐 Develop interactive **Web Applications**  
+- ⚙️ Apply **mathematical modeling** and **optimization** techniques  
 
 ---
 
 ## 🎯 What I’m Looking For
 
-I’m currently seeking **internship** where I can contribute to:
-- AI or Data Science projects (ML/DL, NLP, LLMs)
-- Generative AI applications
-- Projects involving **data-driven decision-making** 
+I am currently **seeking a 4–6 month Final-Year Internship (PFE) starting February**, where I can contribute to:
+
+- AI or Data Science projects (ML/DL, NLP, LLMs)  
+- Generative AI applications  
+- Data-driven decision-making and predictive modeling  
 
 ---
+
 
 ⭐ _"Combining mathematics, code, and curiosity to create intelligent systems that matter."_
 
