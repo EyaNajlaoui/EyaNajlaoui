@@ -1,63 +1,104 @@
-<!--
-**EyaNajlaoui/EyaNajlaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Eya Najlaoui 👋
 
-Here are some ideas to get you started:
+### Applied Mathematics Engineer · Data Scientist · AI Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Applied Mathematics & Modeling Engineer** from the Higher National Engineering School of Tunis (ENSIT), **ranked 1st in the Reliability & Maintenance specialization**, with a **Research Master's in Data Science**.
 
-# 👋 Hello! I'm Eya Najlaoui
+I build data and AI systems end to end: from data pipelines and machine learning models to **RAG assistants and multi-agent platforms** running in production.
 
-🎓 **Final-year Engineering Student at ENSIT (Applied Mathematics & Modeling Engineering)**  
-📘 **Master's Student (M2) in Data Science at ENSIT**  
-🤖 **AI & Data Science Enthusiast** | 💬 **LLM & Generative AI Explorer**
+🎯 **Open to opportunities:** Data Scientist · Machine Learning Engineer · AI Engineer · Data Engineer (Tunisia, remote or relocation)
 
-Welcome to my GitHub profile! I’m currently completing my engineering degree at the Higher National Engineering School of Tunis (ENSIT) and pursuing a **Master’s degree in Data Science at ENSIT**.  
-I’m passionate about leveraging **Artificial Intelligence**, **Data Science**, and **Web Technologies** to build impactful and intelligent systems.
+[![Portfolio](https://img.shields.io/badge/Portfolio-eya--najlaoui.vercel.app-941B50?style=for-the-badge&logo=vercel&logoColor=white)](https://eya-najlaoui.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eya-najlaoui/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eya.najlaouii@gmail.com)
 
 ---
 
-## 👨‍💻 What I Do
+## 🚀 Featured Projects
 
-- 🧠 Build and evaluate **Machine Learning** and **Deep Learning** models  
-- 💬 Explore **Generative AI**, **LLMs (Large Language Models)**, and **Natural Language Processing**  
-- 🌐 Develop interactive **Web Applications**  
-- ⚙️ Apply **mathematical modeling** and **optimization** techniques  
+| Project | What it does | Key result | Links |
+|---|---|---|---|
+| **FinQuery** | Agentic RAG assistant that answers questions on financial reports and cites the source page of every figure (hybrid search, reranking, tool calling) | **80% correct answers** vs. 50% for a standard RAG | [Demo](https://finquery-eya-najlaoui.streamlit.app/) · [Code](https://github.com/EyaNajlaoui/finquery) |
+| **Customer Churn & Retention** | XGBoost + SHAP churn prediction turned into a 4-page Power BI dashboard with a prioritized call list and a what-if simulator | **82% of churners detected**, $139K monthly revenue at risk quantified | [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMDUwYzE2ZjYtYzNhNy00NTAxLWJlNjYtYjk2NTQ0OTQzZDRkIiwidCI6ImRiZDY2NjRkLTRlYjktNDZlYi05OWQ4LTVjNDNiYTE1M2M2MSIsImMiOjl9) · [Code](https://github.com/EyaNajlaoui/churn-retention-dashboard) |
+| **PrioPath** *(Talan internship)* | Cybersecurity decision-support platform: knowledge graph, GNNs and LangGraph agents that prioritize attack paths | Knowledge graph of **5,000+ CVEs** from 6 sources | [Demo video](https://drive.google.com/file/d/1ow2b3Jv_jYFjDuPyxR-4rVDARLxeb-iZ/view?usp=drive_link) |
+| **PrognosIA** | Predictive maintenance for turbofan engines: health classification and Remaining Useful Life forecasting | **AUC 98%**, LSTM R² 83% | [Demo](https://prognosia.streamlit.app/) · [Code](https://github.com/EyaNajlaoui/maintenance_predictive) |
 
----
-
-## 🎯 What I’m Looking For
-
-I am currently **seeking a 4–6 month Final-Year Internship (PFE) starting February**, where I can contribute to:
-
-- AI or Data Science projects (ML/DL, NLP, LLMs)  
-- Generative AI applications  
-- Data-driven decision-making and predictive modeling  
+🔨 **Currently building:** a **real-time bank fraud detection** pipeline with Kafka (Redpanda), Spark Structured Streaming, XGBoost, PostgreSQL and Airflow.
 
 ---
 
+## 💼 Experience
 
-⭐ _"Combining mathematics, code, and curiosity to create intelligent systems that matter."_
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/eya-najlaoui) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eya.najlaouii@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EyaNajlaoui&theme=monokai&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=EyaNajlaoui&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EyaNajlaoui&theme=monokai&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+- **Talan Tunisia Consulting** · AI & Data Science Intern (end-of-studies) · *Feb 2026 – Jun 2026*
+  Built PrioPath: multi-agent architecture (LangGraph), Graph RAG, GNNs, FastAPI, Neo4j, PostgreSQL.
+- **Five Elements Services (5ES)** · Data Science Intern · *Jul 2025 – Aug 2025*
+  Demand forecasting from ERP data; LSTM R² improved from 66% to 97%; Streamlit app for business teams.
+- **Ministry of Tourism** · IT Summer Intern · *Jul 2024 – Aug 2024*
+  Inventory and analysis of 200+ IT assets to prioritize maintenance.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EyaNajlaoui&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**Machine Learning & Deep Learning**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-941B50?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
+
+**Generative AI**
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-Graph%20RAG-941B50?style=flat-square)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+
+**Data, Databases & BI**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Deployment & Tools**
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+---
+
+## 📜 Certifications
+
+10+ certifications, including **IBM** Machine Learning · **IBM** Databases and SQL for Data Science with Python · **NVIDIA** Deep Learning Fundamentals · **Microsoft** Azure AI Fundamentals.
+See them all on my [portfolio](https://eya-najlaoui.vercel.app/#certifications).
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EyaNajlaoui&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyaNajlaoui&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+⭐ *Combining mathematics, code and curiosity to build AI systems that create real value.*
